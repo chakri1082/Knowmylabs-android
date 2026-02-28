@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">KnowMyLabs</string>
+    <string name="title_activity_main">KnowMyLabs</string>
+    <string name="package_name">com.knowmylabs.app</string>
+    <string name="custom_url_scheme">com.knowmylabs.app</string>
+</resources>

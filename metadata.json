@@ -1,0 +1,7 @@
+{
+  "name": "KnowMyLabs",
+  "description": "A friendly, anxiety-reducing medical jargon and blood test explainer. Now Android-ready with Capacitor integration for Play Store submission.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
